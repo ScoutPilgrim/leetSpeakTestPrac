@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak/bin/Debug/netcoreapp2.2/LeetSpeak.deps.json
+/Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak/bin/Debug/netcoreapp2.2/LeetSpeak.dll
+/Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak/bin/Debug/netcoreapp2.2/LeetSpeak.pdb
+/Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak/obj/Debug/netcoreapp2.2/LeetSpeak.csprojAssemblyReference.cache
+/Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak/obj/Debug/netcoreapp2.2/LeetSpeak.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak/obj/Debug/netcoreapp2.2/LeetSpeak.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak/obj/Debug/netcoreapp2.2/LeetSpeak.AssemblyInfo.cs
+/Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak/obj/Debug/netcoreapp2.2/LeetSpeak.dll
+/Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak/obj/Debug/netcoreapp2.2/LeetSpeak.pdb
